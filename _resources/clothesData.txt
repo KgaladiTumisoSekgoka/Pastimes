@@ -1,0 +1,9 @@
+1, 1, Beige Women Coat, 899.99, 5, A stylish beige coat perfect for women during the fall season., _images/beige_women_coat.jpg, Fashionista, S, M, L, Women
+2, 2, Black Dress, 499.99, 14, An elegant black dress suitable for evening occasions., _images/black_dress.jpg, Elegant Wear, S, M, L, XL', Women
+3, 3, Blue Dress, 599.99, 9, A beautiful blue dress that flows gracefully for any event., _images/blue_dress.jpg, Dress Co., S, M, L', Women
+4, 4, Long Shirt, 299.99, 8, A casual long shirt perfect for layering or wearing alone., _images/long_shirt.jpg, Casual Line, M, L, XL, Men
+5, 5, T-Shirt, 199.99, 25, A comfortable t-shirt for everyday wear., _images/t_shirt.jpg, Everyday Wear, S, M, L, XL, Men),
+6, 1, Pink Linen Outfit, 999.99, 7, Elegant pink linen outfit perfect for warm weather., _images/pink_coat.jpg, Fashionista, S, M, L, Women
+7, 2, Everyday Explorer Alphabet Set, 299.99, 10, Childrens Casual Outfit Set, 2-Piece Set, _images/kids_casual_outfit.png, Carters, 7, 8, 9, 10, 11, 12, 13, 14, Kids
+8, 3, Leather Belt, 99.99, 11, Reversible leather belt with a sleek silver buckle., _images/leather_belt.jpg, Old Khaki, XS, S, M, L, XL, XXL, Men
+9, 4, Girls Outfit, 99.99, 8, 2PCS, Girls Y2k Leopard Glasses & Figure Print Long Sleeve Tee + Pants, _images/kids_girls_outfit.png, Puma, 4, 5, 6X, Kids

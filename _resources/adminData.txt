@@ -1,0 +1,14 @@
+Tumiso, kgaladisekgoka@gmail.com, $2y$10$M4TZVpFKRc09Ba7vSP/pR.CGMOD.9NWzdtjOq.4teN1Cn2hG15Tz.
+Alice Johnson, alice.johnson@example.com, $2y$10$NQv3IvRnrqQwImKVfo8Pje/ihERFUw8Fyd4bFZCUL.K7/ewJ73AJK
+Bob Smith, bob.smith@example.com, $2y$10$f0GZW2nXcEegDg8xZ0akg.Iq6J6SKsdzrwMJsc4k682GABOTZa3SW
+Charlie Brown, charlie.brown@example.com, $2y$10$K1Ux3Y8RDnbnYoJffCMGrOS5s/Jw.6z/oPakxDHznMT1ZkF2DK3xm
+Diana Prince, diana.prince@example.com, $2y$10$UOykdZcxL.tWLDDHNvOcue6p7oTn7fgpTC529tVkLn3ukFXD3e3L2
+
+
+Unhashed
+
+Tumiso, kgaladisekgoka@gmail.com, Tumiso123
+Alice Johnson, alice.johnson@example.com, AlicePass456
+Bob Smith, bob.smith@example.com, BobSecure789
+Charlie Brown, charlie.brown@example.com, CharliePwd101
+Diana Prince, diana.prince@example.com, DianaHero202

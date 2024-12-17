@@ -1,0 +1,12 @@
+seller1, seller1@example.com, $2y$10$BCHCCidCWlyZhP12c6rW7e7nNozftWKUIHb5xGrvYWiLKUakjqhcm, Alice Johnson, 1234567890, 123 Main St, Cityville, 0, 2024-10-28 06:22:12
+seller2, seller2@example.com, $2y$10$LqSPQbzfD4MqLxJstHTlYejLaozp2IT5QxW87Re13nMJS90lzgltO, Bob Smith, 2345678901, 456 Elm St, Townsville, 0, 2024-10-28 06:23:44
+seller3, seller3@example.com, $2y$10$qgO6Se26UIwW5M7URx.hL.N5tqq3ATlizGeLZ6P8jliHudMI4ZAH6, Carol Davis, 3456789012, 789 Maple Ave, Villageburg, 0, 2024-10-28 06:24:29
+seller4, seller4@example.com, $2y$10$4UGi4Ta6JoGKNosLIa5v2.8WdxJKg1QED1LbCwUJsfOlpnIh0YOrO, David Wilson, 4567890123, 101 Oak St, Hamletville, -1, 2024-10-28 06:26:11
+demo, demo@gmail.com, $2y$10$NuDi.YhYkCLk3HCBjtx.0eKkBTHL/hmzx62miLh94p6EmbyZk6aQm, Demo, 1234567890, Demo st, 1, 2024-11-03 08:01:44
+
+Unhashed passwords
+password123
+mypassword456
+secure7890
+pass1234
+Demo

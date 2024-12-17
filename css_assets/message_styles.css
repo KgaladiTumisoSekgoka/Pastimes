@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: white;
+    animation: fadeInAnimation ease 1.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+/* General Container Styling */
+.message_container {
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Back Button Styling */
+.back-button {
+    margin-bottom: 20px;
+}
+
+.back-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+}
+
+.back-link i {
+    margin-right: 8px;
+    color: #555;
+    /* Adds a pop of color */
+}
+
+/* Heading Styling */
+h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #666;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+/* Message Form Styling */
+.message-form {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+#message {
+    width: 100%;
+    padding: 15px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    resize: none;
+}
+
+.send-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #555;
+    /* Bright color for button */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.send-button:hover {
+    background-color: #555;
+}
+
+/* Messages Section */
+.messages-section {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.message-list {
+    margin-top: 10px;
+}
+
+/* Message Bubbles */
+.message {
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-size: 1rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.user-message {
+    background-color: #e6ffe6;
+    text-align: right;
+}
+
+.seller-message {
+    background-color: #f0f0f0;
+    text-align: left;
+}
